@@ -26,7 +26,7 @@ Financial data can be vast and complex, making it challenging for users to analy
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/financial-data-filtering-app.git
+   git clone https://github.com/devyess/financial-data-filtering-app
    cd financial-data-filtering-app
    ```
 2. Install the dependencies:
