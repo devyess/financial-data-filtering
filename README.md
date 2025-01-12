@@ -4,6 +4,10 @@
 
 The Financial Data Filtering App is a React-based web application designed to fetch, display, and filter financial data. The application provides users with the ability to view income and revenue details of a company, sort the data by different columns, and apply various filters to narrow down the results.
 
+## Live Demo
+
+Check out the live demo of the Financial Data Filtering App [here](https://github.com/devyess/financial-data-filtering-app).
+
 ## Problem Statement
 
 Financial data can be vast and complex, making it challenging for users to analyze and extract meaningful insights. This application aims to simplify the process by providing an intuitive interface for sorting and filtering financial data, allowing users to focus on the information that matters most to them.
