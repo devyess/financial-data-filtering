@@ -6,7 +6,7 @@ The Financial Data Filtering App is a React-based web application designed to fe
 
 ## Live Demo
 
-Check out the live demo of the Financial Data Filtering App [here](https://github.com/devyess/financial-data-filtering-app).
+Check out the live demo of the Financial Data Filtering App [here](https://financial-data-filtering-9qlwrujrj-devyess-projects.vercel.app/).
 
 ## Problem Statement
 
